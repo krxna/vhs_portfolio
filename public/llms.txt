@@ -1,0 +1,30 @@
+# Krishna Suryawanshi · Tapes
+
+> Growth intern application for Wispr Flow. An interactive portfolio: pick a VHS tape (or say its name with Wispr Flow) and it plays a pixel-art room telling one project story. Built and edited by voice with Wispr Flow.
+
+Contact: krishnasuresh.s23@iiits.in · https://x.com/krishna_gz · https://www.linkedin.com/in/krishna-gz/
+
+## UNSAID: original Wispr Flow India campaign film
+A grandfather who never says he loves his wife learns, through his granddaughter, to speak private notes into Wispr Flow. Day by day they grow from "I love her" into specific memories. Flow captures his own words; it doesn't write them for him. Aimed at Indian families where love is shown more than said.
+
+## PSST: Game Jam word-of-mouth growth
+- Posters, reels and banners got 19 sign-ups.
+- Our team asked juniors "Have you heard of Game Jam? What's the prize pool?" and walked off; talk to ten people, get a Coke. The name spread in about a week, then details went out on Instagram and email.
+- Result: 19 to 167 sign-ups, turnout up 20% on last year, cost 8 Diet Cokes.
+- Channels weren't tested separately.
+
+## SAVED: Leanstack (5S audits and Kaizen)
+- Unprompted, pitched digitising paper 5S audits to a consulting firm's lead consultant; built Leanstack.
+- Fixed a lost-answers bug on site with Claude Code in 5 to 10 minutes and won back a skeptical user.
+- Report prep for a 30 to 40 zone plant: about 20 hours down to seconds. Live at 3 firms, about 10 more planned.
+
+## ASK THE FLOOR: inventory app from user interviews
+- Visited the plant and interviewed end users, not just managers.
+- Changed from one shared dashboard to one view per role (owner, sales, production, logistics).
+- In development; no usage numbers yet.
+
+## TELL ME WHY: background
+- AB Associates (manufacturing consulting): ownership.
+- Clinical research with cardiologists; a networking paper published with a professor: analysis.
+- UNSAID: storytelling. College PR and events: word of mouth.
+- For Wispr Flow: UGC campaigns with creators and results, in-person events, AI video.

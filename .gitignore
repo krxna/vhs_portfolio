@@ -1,0 +1,12 @@
+node_modules
+dist
+.DS_Store
+.venv/
+# not part of the site: keep out of the repo / upload
+.env*
+/campaign/
+/assets/
+/mobile-screenshots/
+scripts/__pycache__/
+/*.mp3
+wispr_flow_portfolio_interview_master_record.md

@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp /Users/krxna/.claude/plans/i-want-to-make-fizzy-bubble.md /Users/krxna/main/wispr/PLAN.md && ls /Users/krxna/main/wispr)",
+      "Bash(python3 -c \"import PIL, cv2; print\\('pil+cv2 ok'\\)\")",
+      "Bash(python3 -c \"import rembg\")",
+      "Bash(sips -g pixelWidth -g pixelHeight /Users/krxna/main/wispr/assets/generated/organizer.png)",
+      "Bash(swift /private/tmp/claude-501/-Users-krxna-main-wispr/e522ff9e-6b32-4a5b-8d86-e41c28705c80/scratchpad/bbox.swift recorder.png turntable_body.png vinyl.png vhs_cassette.png organizer.png)"
+    ]
+  }
+}
